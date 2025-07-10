@@ -5,14 +5,6 @@
 
 ---
 
-🛍️ E-Commerce Projects Portfolio
-
-- [Customer Churn Analysis – Python + Power BI](https://github.com/vaishnavi-ediga/Ecommerce-Churn-Analysis)
-- [Sales Dashboard – Excel Project](https://github.com/vaishnavi-ediga/Ecommerce-Excel-Dashboard)
-- [Product Performance Analysis – SQL](https://github.com/vaishnavi-ediga/Ecommerce-SQL-Analysis)
-
----
-
  🧰 Tools & Skills
 - Excel, Power BI, SQL, Python
 - EDA, Dashboards, Data Cleaning, Visualization, Churn Modeling
