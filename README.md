@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Vaishnavi Ediga
 
-<!--
-**Vaishnaviediga/Vaishnaviediga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Freelance Data Analyst | E-Commerce Analytics Enthusiast  
+📊 Skilled in Excel, SQL, Power BI, Python | Passionate about turning e-commerce data into insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛍️ E-Commerce Projects Portfolio
+
+- [Customer Churn Analysis – Python + Power BI](https://github.com/vaishnavi-ediga/Ecommerce-Churn-Analysis)
+- [Sales Dashboard – Excel Project](https://github.com/vaishnavi-ediga/Ecommerce-Excel-Dashboard)
+- [Product Performance Analysis – SQL](https://github.com/vaishnavi-ediga/Ecommerce-SQL-Analysis)
+
+---
+
+ 🧰 Tools & Skills
+- Excel, Power BI, SQL, Python
+- EDA, Dashboards, Data Cleaning, Visualization, Churn Modeling
+
+---
+
+📬 Connect on [LinkedIn](https://www.linkedin.com/in/vaishnavi-ediga-84348b276/)  
+📧 vaishnavi.ediga5@gmail.com
+
+
+
+
+
